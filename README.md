@@ -1,2 +1,2 @@
-# Sanxa
+# Tiksnap.io
 Ajaks
